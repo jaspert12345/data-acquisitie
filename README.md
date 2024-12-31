@@ -1,1 +1,1 @@
-main code en microfoon
+main code with all sensors and microfoon 
